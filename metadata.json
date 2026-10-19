@@ -1,0 +1,6 @@
+{
+  "name": "Smart Offline Planner",
+  "description": "Comprehensive offline trip planner featuring smart itinerary management, packing checklist templates, activity scheduling, and travel notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

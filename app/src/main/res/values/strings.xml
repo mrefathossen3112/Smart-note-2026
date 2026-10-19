@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart Planner</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_trips">Trips</string>
+    <string name="title_packing">Packing</string>
+    <string name="title_notes">Notes</string>
+    <string name="action_add_trip">New Trip</string>
+    <string name="action_add_schedule">Add Activity</string>
+    <string name="action_add_note">New Note</string>
+    <string name="action_add_packing_item">Add Item</string>
+    <string name="label_search_trips">Search trips…</string>
+    <string name="label_search_notes">Search notes…</string>
+    <string name="label_upcoming">Upcoming</string>
+    <string name="label_active">Active</string>
+    <string name="label_completed">Completed</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+</resources>
